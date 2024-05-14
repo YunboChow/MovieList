@@ -1,5 +1,9 @@
 # Bult with React + Vite
 
+### pnpm
+This project uses pnpm.
+This can be installed with the following command: 'npm i -g pnpm'
+
 ### 'pnpm install' 
 To install the dependencies
 
