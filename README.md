@@ -1,4 +1,10 @@
-# React + Vite
+# Bult with React + Vite
+
+### 'pnpm install' 
+To install the dependencies
+
+### 'pnpm run dev' 
+Starts the application
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
